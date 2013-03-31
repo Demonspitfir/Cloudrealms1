@@ -1,0 +1,8 @@
+There is one problem that I have been having.
+I haven't been able to get the whole set-up going.
+I am trying to use /localhost/ MySQL, XAMPP, Etc. to Host the Site on my local computer. 
+I was able to read the Readme and get things set-up after setting up all the other programs.
+
+I got the MySQL database up-loaded. Then got things to start working; however, I am now running into Syntax Errors,
+and <? or <?php errors. Where you have to chose one over the other and there are Syntax Error's after Syntax Errors showing up.
+Was just curious if this was a new problem or an existing one.
